@@ -1,0 +1,20 @@
+{
+  "name": "lab-06-httpandrest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "lint": "eslint '**/*.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-muna/lab-06-HTTPandREST.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-muna/lab-06-HTTPandREST/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-muna/lab-06-HTTPandREST#readme"
+}
